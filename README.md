@@ -17,7 +17,7 @@ For a detailed explanation of our methodology and findings, please refer to our 
 
 ## Main Results
 
-![Community Detection Results](metadata/main_pq_results.png)
+![Community Detection Results](metadata/main_pq_results.svg)
 
 The graph shows the accuracy of different community detection methods on networks generated using the Stochastic Block Model. We varied intra-community (p) and inter-community (q) connection probabilities, where 0.5 < p < 0.9 and q = 1 - p. GNN-based methods (GCN and LGNN) maintain high accuracy even as community structure becomes less distinct, outperforming traditional methods in challenging scenarios.
 
