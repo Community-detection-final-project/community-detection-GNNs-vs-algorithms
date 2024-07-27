@@ -65,6 +65,6 @@ python label-propagation/run_label_propagation.py
 
 ## Contributors
 
-Ben Dabush
-Naama Shiponi
-Arad Ben Menashe
+- Ben Dabush
+- Naama Shiponi
+- Arad Ben Menashe
