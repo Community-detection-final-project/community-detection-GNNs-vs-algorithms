@@ -4,7 +4,7 @@ GCN model for community detection using the hungarian algorithm for accuracy cal
 import torch
 import matplotlib.pyplot as plt
 from scipy.optimize import linear_sum_assignment
-from gcn_net import GCNNet
+from gcn.gcn_model import GCNNet
 from communities_dataset import create_dataset, load_dataset, evaluate_spectral_clustering
 
 
